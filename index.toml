@@ -778,6 +778,11 @@ hash = "964df7ae7b91cab7e90e649a3cf7bdacdab5f38c2d043eadfad90436fe31a68c"
 metafile = true
 
 [[files]]
+file = "mods/blaha-replushed.pw.toml"
+hash = "a3751624d77f31587695c346ee8ca53ace301a8582da36290c133111cc7a0c1e"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "1e1f026b2127fc5e1ef203a86919c7bc3a0cbe15872d521852f972449f295529"
 metafile = true
