@@ -935,6 +935,10 @@ hash = "253d0905e558cf8633af648339d25f17e1aef3991b72d4ce0199a70db8a71aef"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "73323b708304a194d6ecdca4f477887898686a6f309f8cc053bc50fed1b703e5"
 metafile = true
@@ -1132,6 +1136,10 @@ metafile = true
 [[files]]
 file = "mods/kubejs.pw.toml"
 hash = "424ec31aec85a288c85f101fd5f05c8b02bffbb0215d7e1c06502538139278e8"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
 metafile = true
 
 [[files]]
