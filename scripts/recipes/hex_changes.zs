@@ -2,7 +2,7 @@ import crafttweaker.api.ingredient.IIngredient;
 
 
 // Rip allays (or well, ripping less allays?)
-<recipetype:hexcasting:brainsweep>.removeByName("hexcasting:brainsweep/quench_allay");
+// <recipetype:hexcasting:brainsweep>.removeByName("hexcasting:brainsweep/quench_allay");
 
 <recipetype:minecraft:crafting>.removeByName("hexcasting:edified_panel");
 craftingTable.addShaped("hexxycraft/edified_panel", <item:hexcasting:edified_panel>*4, [
@@ -12,12 +12,12 @@ craftingTable.addShaped("hexxycraft/edified_panel", <item:hexcasting:edified_pan
 
 ]);
 
-<recipetype:hexcasting:brainsweep>.addJsonRecipe("hex_quench_allay", {
-    blockIn: {type: "block", block: "minecraft:amethyst_block"},
-    cost: 1500000,
-    entityIn: {type: "entity_type", entityType: "minecraft:allay"},
-    result: { name: "hexcasting:quenched_allay" }
-});
+// <recipetype:hexcasting:brainsweep>.addJsonRecipe("hex_quench_allay", {
+//     blockIn: {type: "block", block: "minecraft:amethyst_block"},
+//     cost: 1500000,
+//     entityIn: {type: "entity_type", entityType: "minecraft:allay"},
+//     result: { name: "hexcasting:quenched_allay" }
+// });
 
 craftingTable.addShaped("hex_slate_ameythest_tiles", <item:hexcasting:slate_amethyst_tiles>*4, [
     [<item:minecraft:amethyst_block>, <item:hexcasting:slate_block>],

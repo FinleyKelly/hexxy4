@@ -154,7 +154,7 @@ hash = "c267aa35f7db2fa5a077f815da61e3afe1486ba8076106dd91e2e995f121ef17"
 
 [[files]]
 file = "config/create-tweaks-common.toml"
-hash = "91cdc2975aa3800b69720c0935a19528f3675d273242878bba474ce1bdbeb89a"
+hash = "ac4fbb08be315f5af8f4df5f3e45ad4bc682440db551959792c2bda6e5af4293"
 
 [[files]]
 file = "config/cristellib/minecraftED.json5"
@@ -862,6 +862,11 @@ hash = "e9c1ddbd2eb85366257eb66ab2fac06dbb4a6f5d56961eec6a25bc6199a41845"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "d306e869837927002dcaa18b8b92465b11de8efcd44f531a9cef6f3975b00810"
+metafile = true
+
+[[files]]
 file = "mods/create-estrogen.pw.toml"
 hash = "1c5769334b61cdaaa85a38573cbc4677cfb7f7b30b9e2089048103e4c906e000"
 metafile = true
@@ -1175,6 +1180,11 @@ hash = "7a5d8cb51a4376b1c722f01da50605e3a5846f35e66d1ad1849569e59bc03ff0"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+hash = "5d31750ce5fbe3b691850f5d57f7a7251b15a340af46895bc88061e16a9facf6"
+metafile = true
+
+[[files]]
 file = "mods/mediatransport.pw.toml"
 hash = "e1649b3f9a8aa19fc67a2fe3206e24d7d476bc15e5e1d1845af1b7b13a69f13c"
 metafile = true
@@ -1327,6 +1337,11 @@ file = "mods/scryglass-1.0.0-6c096fb.jar"
 hash = "9885b852bbb9d706f5a183597b701ae2ff9350cb0d6dcd24c83c7c5cb82104dc"
 
 [[files]]
+file = "mods/sdlink.pw.toml"
+hash = "ac3aecaa7398c0b9dcb46abdaa1826562ea1494de43c740b6c7a8d5abd139420"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "d47bc0d99b7377c8cdce9461540ccaf744b31e1a8a7f6e2c7628ac82e472bbf3"
 metafile = true
@@ -1334,6 +1349,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "483be62aef095c69f8fc3e6f0b56ee6d024378e371fb032e9b7c332b63c2a357"
+metafile = true
+
+[[files]]
+file = "mods/show-me-what-you-got.pw.toml"
+hash = "3f4ebc99e5cfdfebdcaab0eb420af0cfe8952e93566ede25cbea6463119ba0f9"
 metafile = true
 
 [[files]]
@@ -1499,7 +1519,7 @@ hash = "39d5bf4038d8ad7ee9b262e12541e6634b8f02e0264caa204ab88305bfbbf019"
 
 [[files]]
 file = "scripts/recipes/hex_changes.zs"
-hash = "6ad5723d02fd496633aa444540e92ffbb51c4d0a288c2eebda2ce9e4a607f067"
+hash = "fc845bc56862ef46845e5e7ca0c45499701aa34aa3d27a3ef3b78d8d697c9ca3"
 
 [[files]]
 file = "scripts/recipes/merge_phials.zs"
