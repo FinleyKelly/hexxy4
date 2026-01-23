@@ -1,0 +1,13 @@
+name = "Undopia Pride Bees"
+filename = "Undopia_Pride_Bees_1.20.x_v.1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wGXJGq96/versions/IbClYwOS/Undopia_Pride_Bees_1.20.x_v.1.1.zip"
+hash-format = "sha512"
+hash = "663df11ffec4a9d290e09be7c2f8f639714439565ce7bb157c0043dcee3f0e74b7683d20a8ade49292fcfb5fe5c927e7f4ddf2dc8a6e7d2f61a6b5c7eab9a18a"
+
+[update]
+[update.modrinth]
+mod-id = "wGXJGq96"
+version = "IbClYwOS"

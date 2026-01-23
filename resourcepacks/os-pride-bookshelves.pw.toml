@@ -1,0 +1,13 @@
+name = "Os' Pride Bookshelves"
+filename = "Os' Pride Bookshelves.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ojoJ9x2n/versions/OBjy6w7Y/Os%27%20Pride%20Bookshelves.zip"
+hash-format = "sha512"
+hash = "a701c0d809f79736fadc4db84f610f3997f42b7eabc8f8b01903b92f6933ec8ace3a02b643c826f04e61834c47f4ba63e98e3ec4ff165848d01ec3729ba0d14b"
+
+[update]
+[update.modrinth]
+mod-id = "ojoJ9x2n"
+version = "OBjy6w7Y"

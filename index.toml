@@ -950,6 +950,11 @@ hash = "73323b708304a194d6ecdca4f477887898686a6f309f8cc053bc50fed1b703e5"
 metafile = true
 
 [[files]]
+file = "mods/emitrades.pw.toml"
+hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
+metafile = true
+
+[[files]]
 file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
 hash = "1d385e8fa6bf1d33fd76b89cddab3f51545261bac924092b58193324b2a82671"
 
@@ -961,6 +966,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-ecosphere.pw.toml"
 hash = "1a77dc138af18bcafd6e04a868e45ba134618663ff528fe5d3d4ba6bd26b4166"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "174c496d2d38d39ef7c531a34e43e1ec949d418816cdb2f8161dd6f2990f8752"
 metafile = true
 
 [[files]]
@@ -1502,8 +1512,18 @@ file = "resourcepacks/Hexxycraft/pack.mcmeta"
 hash = "7f321451e24fb35135023f272a0e99de5d790573cf3acba2467eaa9c55e2d7b2"
 
 [[files]]
+file = "resourcepacks/os-pride-bookshelves.pw.toml"
+hash = "660f9d50922c4b8d0badc9fefc46face97ed2156136da184b29f7418ba38a74d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/toki-pona.zip"
 hash = "17b418b2a9993418157d9d61bf08a050adac3094f466486a1549d8e438b1e3b2"
+
+[[files]]
+file = "resourcepacks/undopia-pride-bees.pw.toml"
+hash = "e1025babf11199ff94e07b7818fc93674b1e667c03e7db541bf807949eabded0"
+metafile = true
 
 [[files]]
 file = "scripts/common/phials.zs"
