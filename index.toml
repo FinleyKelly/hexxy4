@@ -326,7 +326,7 @@ hash = "c0e37aeda3a508f8b87dddc1a39769627216978974e35287e6f88f40c0909582"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "6e5c5c44dae71808bca20505e9e3d0912d01d348c247a47dc576ab3e6ac6a9ce"
+hash = "b266863dd71ae103a8a6da0eddf0f8cb7e9daaad80f7d93a6c985d0ba0b14a0b"
 
 [[files]]
 file = "config/hexdebug/client.toml"

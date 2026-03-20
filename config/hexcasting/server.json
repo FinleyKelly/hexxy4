@@ -2,12 +2,8 @@
   "opBreakHarvestLevel": 3,
   "maxOpCount": 100000,
   "maxSpellCircleLength": 20000,
-  "actionDenyList": [
-    "hexal:tick"
-  ],
-  "circleActionDenyList": [
-    "hexal:tick"
-  ],
+  "actionDenyList": [],
+  "circleActionDenyList": [],
   "greaterTeleportSplatsItems": true,
   "villagersOffendedByMindMurder": true,
   "doesTrueNameHaveAmbit": true,
