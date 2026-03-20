@@ -253,6 +253,9 @@ file = "config/hexdebug/client.toml"
 file = "config/hexdebug/server.toml"
 
 [[files]]
+file = "config/hexparty-server.toml"
+
+[[files]]
 file = "config/hexportation/client.json5"
 
 [[files]]
@@ -653,6 +656,10 @@ file = "mods/controlling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/crafttweaker.pw.toml"
 metafile = true
 
@@ -846,6 +853,10 @@ file = "mods/hexodus.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/hexparty.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/hexpats.pw.toml"
 metafile = true
 
@@ -1028,6 +1039,10 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/patternmasters-fix.pw.toml"
 metafile = true
 
 [[files]]
